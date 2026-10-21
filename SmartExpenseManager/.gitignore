@@ -1,5 +1,4 @@
 build/
-data/transactions.csv
 *.o
 *.exe
 .DS_Store
