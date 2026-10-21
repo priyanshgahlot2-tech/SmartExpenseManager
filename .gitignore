@@ -1,0 +1,18 @@
+# IDE and editor files
+.dide/
+.vscode/
+
+# Build artifacts and binaries
+*.exe
+*.o
+*.obj
+build/
+out/
+cmake-build-*/
+
+# Data files (optional - remove if you want to include sample data)
+# SmartExpenseManager/data/
+
+# OS files
+Thumbs.db
+.DS_Store
